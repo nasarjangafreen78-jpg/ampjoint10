@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://en-us-ampjoint-10.site/sitemap.xml
